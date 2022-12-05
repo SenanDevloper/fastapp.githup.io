@@ -1,2 +1,2 @@
-# fastapp.githup.io
-my website
+# My personal website
+https://SenanDevloper.github.io/
